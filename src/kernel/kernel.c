@@ -3,7 +3,7 @@
  * Main kernel implementation
  */
 
-#include "../include/kernel. h"
+#include "../include/kernel.h"
 #include "../include/stdio.h"
 #include "../include/memory.h"
 
